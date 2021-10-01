@@ -11,5 +11,6 @@
     <color name="cyan">#00FFFF</color>
     <color name="Maroon">##800000</color>
     <color name="LightCoral">##F08080</color>
-    <color name="Salmon">##FA8072</color>
+    <color name="Salmon">#008080</color>
+    <color name="Teal">##FA8072</color>
 </resources>
